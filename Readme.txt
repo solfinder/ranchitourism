@@ -1,0 +1,8 @@
+- The web application is desgned to provide Travel related information to tourists visiting Ranchi,Jharkhand.
+- Unzip the folder to the htdocs folder of apache web server.
+- Open the url http:/localhost:8080/website/Travel.html
+- Use the side navifation menu to access the various modules of the Travel site.
+- Attractions menu lists out the tourist attraction in Ranchi.
+- Stays menu gives details of accommodation options
+- Nearby menu provides information about places which are reachable from Ranchi via a short trip.
+- Tapestry menu provides a visual display of beauty of Ranchi. 
